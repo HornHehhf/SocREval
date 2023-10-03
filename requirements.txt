@@ -1,0 +1,5 @@
+openai==0.27.7
+scipy==1.7.0
+numpy==1.20.3
+pandas_stubs==1.2.0.58
+pandas==2.1.1
