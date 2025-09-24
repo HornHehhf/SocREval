@@ -1,5 +1,5 @@
 ## SocREval 
-This is the code repository for the Arxiv paper [SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation](https://arxiv.org/pdf/2310.00074.pdf)
+This is the code repository for the NAACL paper [SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation](https://aclanthology.org/2024.findings-naacl.175.pdf)
 
 
 ## Installing dependencies
