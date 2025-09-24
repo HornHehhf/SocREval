@@ -1,6 +1,19 @@
 ## SocREval 
 This is the code repository for the NAACL paper [SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation](https://aclanthology.org/2024.findings-naacl.175.pdf)
-
+If you use this code for your work, please cite
+```
+@inproceedings{he-etal-2024-socreval,
+    title = "{S}oc{RE}val: Large Language Models with the Socratic Method for Reference-free Reasoning Evaluation",
+    author = "He, Hangfeng  and
+      Zhang, Hongming  and
+      Roth, Dan",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    year = "2024",
+    publisher = "Association for Computational Linguistics",
+    doi = "10.18653/v1/2024.findings-naacl.175",
+    pages = "2736--2764",
+}
+```
 
 ## Installing dependencies
 Use virtual environment tools (e.g miniconda) to install packages and run experiments\
